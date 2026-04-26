@@ -1,7 +1,4 @@
-# web-security-scanner
-Ferramenta em Python para auditoria de segurança em aplicações web (Headers &amp; Vulnerabilidades)
-
-# Web Security Scanner (Work in Progress)
+# 🛡️ Web Security Scanner (Work in Progress)
 
 **PT:** Este projeto é uma ferramenta de automação em Python desenvolvida para realizar auditorias rápidas de segurança em aplicações web. O foco é identificar a presença de cabeçalhos de segurança (HTTP Headers) e tecnologias expostas.
 
@@ -9,12 +6,12 @@ Ferramenta em Python para auditoria de segurança em aplicações web (Headers &
 
 ---
 
-### Planned Features / Funcionalidades Planejadas:
+### 🚀 Planned Features / Funcionalidades Planejadas:
 - **Header Analysis:** Verificação de HSTS, X-Frame-Options, X-Content-Type-Options.
 - **Server Version Detection:** Identificação de versões de servidor para análise de vulnerabilidades conhecidas.
 - **Reporting:** Geração de relatórios em formato TXT e PDF.
 
-### Tech Stack:
+### 🛠️ Tech Stack:
 - Python 3.x
 - Requests (Library)
 
