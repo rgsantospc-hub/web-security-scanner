@@ -17,3 +17,10 @@
 
 ---
 *Note: This project is part of my transition to Cybersecurity and Systems Analysis.*
+
+
+### 🗺️ Roadmap / Próximos Passos:
+- [ ] Implementar verificação de expiração de certificado SSL.
+- [ ] Criar exportação de resultados para arquivo JSON e CSV.
+- [ ] Adicionar interface de linha de comando (CLI) amigável.
+- [ ] Desenvolver integração com APIs de verificação de reputação de domínio.
